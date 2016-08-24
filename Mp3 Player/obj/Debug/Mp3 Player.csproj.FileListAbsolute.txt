@@ -1,0 +1,14 @@
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.exe.config
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.exe
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\bin\Debug\Mp3 Player.pdb
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\bin\Debug\Interop.WMPLib.dll
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.csprojResolveAssemblyReference.cache
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\Interop.WMPLib.dll
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.csproj.ResolveComReference.cache
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\Mp3_Player.mediaplayer.resources
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\Mp3_Player.Properties.Resources.resources
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.csproj.GenerateResource.Cache
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.exe
+c:\users\sagun\documents\visual studio 2015\Projects\Mp3 Player\Mp3 Player\obj\Debug\Mp3 Player.pdb
